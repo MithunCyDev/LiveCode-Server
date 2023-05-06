@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mithuncy01/live_code.git"
+    "url": "git+https://github.com/Mithuncy01/LiveCode-Server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Mithuncy01/live_code/issues"
+    "url": "https://github.com/Mithuncy01/LiveCode-Server/issues"
   },
-  "homepage": "https://github.com/Mithuncy01/live_code#readme"
+  "homepage": "https://github.com/Mithuncy01/LiveCode-Server#readme"
 }
